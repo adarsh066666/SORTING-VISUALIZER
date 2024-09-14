@@ -9,3 +9,7 @@ Sample 1 (insertion sort)
 
 ![example1](https://github.com/user-attachments/assets/fe958175-02b8-4d4a-ad8b-8257cb78463e)
 
+Sample 2 (Merge sort)
+
+![example2](https://github.com/user-attachments/assets/6e8cf222-900a-4e62-9692-e664e5fc202d)
+
